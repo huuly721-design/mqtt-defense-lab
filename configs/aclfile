@@ -1,0 +1,11 @@
+# Quyền của Sensor
+user sensor
+topic write iot/sensor/#
+
+# Quyền của Dashboard
+user dashboard
+topic read iot/sensor/#
+
+# Quyền của Controller
+user controller
+topic write iot/control/#
