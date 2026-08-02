@@ -1,6 +1,6 @@
-# 🛡️ ĐỒ ÁN: Mô phỏng phòng thủ MQTT trong môi trường lab
+# 🛡️ ĐỀ TÀI: Mô phỏng phòng thủ MQTT trong môi trường lab
 
-> **Thông tin Đồ án**
+> **Thông tin Đề Tài**
 > * **Môn học:** Bảo mật trong IoT
 > * **Lớp học phần:** 253INT441001
 > * **Giảng viên hướng dẫn:** Hồ Nhựt Minh
