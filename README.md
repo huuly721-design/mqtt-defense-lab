@@ -31,7 +31,7 @@ pip install paho-mqtt==1.6.1
 ### 3. mở CMD và khởi chạy Folder dự án và Service Mosquitto 
 
 
-**Ví dụ đặt cách chạy dự án bao gồm source code trong ổ D**: 
+**Ví dụ: Cách chạy dự án bao gồm source code nếu đặt trong ổ D**: 
 ---
 D: && cd \mqtt-defense-lab\configs && "C:\Program Files\Mosquitto\mosquitto.exe" -c mosquitto.conf -v
 
