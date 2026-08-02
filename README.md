@@ -23,13 +23,19 @@
 ### 2. Cài đặt thư viện Python
 Mở Terminal trong Visual Studio Code và chạy lệnh cài đặt thư viện `paho-mqtt` phiên bản tương thích:
 
-```bash
+
 pip install paho-mqtt==1.6.1
 
-D: && cd \mqtt-defense-lab\configs && "C:\Program Files\Mosquitto\mosquitto.exe" -c mosquitto.conf -v
+### 2. mở CMD và khởi chạy Folder dự án và Service Mosquitto 
+
+
+Ví dụ đặt dự án bao gồm source code vào ổ D :
+ D: && cd \mqtt-defense-lab\configs && "C:\Program Files\Mosquitto\mosquitto.exe" -c mosquitto.conf -v
+### 3. Mở Folder mqtt-defense-lab trên visual code và bật terminal chạy 3 scripts python như sau:
 
 python src/subscriber.py
 
 python src/publisher.py
 
 python src/unauthorized_client.py
+
