@@ -12,7 +12,7 @@
 ## 🚀 Hướng dẫn Cài đặt và Chạy hệ thống
 
 ### 1. Yêu cầu hệ thống (Prerequisites)
-- 💻 **Hệ điều hành:** Windows / Linux / macOS
+- 💻 **Hệ điều hành:**: Windows
 - 🐍 **Môi trường:** Đã cài đặt **Python 3.8** trở lên
 - 🌐 **MQTT Broker:** Đã cài đặt **Eclipse Mosquitto Broker 2.0.x** (hỗ trợ TLS)
 - 🛠️ **IDE/Editor:** Đã cài đặt **Visual Studio Code** (phiên bản mới nhất)
